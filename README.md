@@ -14,7 +14,7 @@ This repository contains our submission for the **NASA Space Apps Challenge 2025
 
 ### 📊 Datasets Used
 
-We utilized publicly available datasets from three cornerstone NASA missions, which were processed and unified into a single machine learning-ready format:
+We utilized  publicly available datasets from three cornerstone NASA missions, which were processed and unified into a single machine learning-ready format:
 
 -   **Kepler Objects of Interest (KOI)**
 -   **TESS Objects of Interest (TOI)**
